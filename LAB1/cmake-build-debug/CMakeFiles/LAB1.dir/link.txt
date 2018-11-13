@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLAB1.a  CMakeFiles/LAB1.dir/first.c.o CMakeFiles/LAB1.dir/second.c.o CMakeFiles/LAB1.dir/third.c.o
+/usr/bin/ranlib libLAB1.a
